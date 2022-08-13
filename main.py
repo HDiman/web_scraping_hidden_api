@@ -1,4 +1,4 @@
 import requests
 
-url = "http://google.com"
+url = "https://www.sunglasshut.com/us/mens-sunglasses"
 
