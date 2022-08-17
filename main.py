@@ -19,12 +19,6 @@ def searchApi(query):
 
 
 text_msg = searchApi('avengers')
-print(text_msg)
-for msg in text_msg:
-    print(msg)
+print(text_msg.json())
 
-#
-# your_json = f"{searchApi('avengers')}"
-# parsed = json.loads(your_json)
-# print(json.dumps(parsed, indent=4, sort_keys=True))
 
