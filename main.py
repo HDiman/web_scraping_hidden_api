@@ -1,6 +1,5 @@
 import requests
 import traceback
-import json
 
 def searchApi(query):
     endpoint = "http://prod.media.jio.com/apis/common/v3.1/search/auto"
